@@ -21,4 +21,4 @@ None of these is released yet. We'll build them in the open here, under the AGPL
 
 ## Get in touch
 
-[Website](https://www.summerrise.studio) · [LinkedIn](https://www.linkedin.com/company/summerrise-studios) · [Email](mailto:jampanikomal@summerrise.studio) · [Get updates](https://www.summerrise.studio/#contact)
+[Website](https://www.summerrise.studio) · [LinkedIn](https://www.linkedin.com/company/summerrise-studios) · [X](https://x.com/SummerRiseStudi) · [Instagram](https://www.instagram.com/summerrisestudios/) · [Email](mailto:jampanikomal@summerrise.studio) · [Get updates](https://www.summerrise.studio/#contact)
