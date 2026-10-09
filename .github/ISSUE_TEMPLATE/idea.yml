@@ -1,0 +1,15 @@
+name: Idea or feedback
+description: Suggest a feature, share a use case, or point us to useful research.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea or feedback?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter?
+      description: Who is it for, and what problem does it solve? Links to papers, tools, or examples are welcome.

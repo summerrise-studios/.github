@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/summerrise-studios/.github/blob/main/SECURITY.md
+    about: Please don't open a public issue for security problems. Follow our security policy instead.
+  - name: Get updates from the studio
+    url: https://www.summerrise.studio/#contact
+    about: Join the list to hear when there's a demo, a release, or a research note.
