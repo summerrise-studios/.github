@@ -2,7 +2,7 @@
 
 ### Intelligent tools for the people who make culture — from the first frame to the final voice.
 
-We're an early-stage, founder-led product studio from Hyderabad, founded in 2024. We pair deep technology with a filmmaker's instinct for emotion, detail, and timing.
+We're an early-stage, founder-led product studio from Telangana, India, founded in 2024. We pair deep technology with a filmmaker's instinct for emotion, detail, and timing.
 
 ## Products
 
